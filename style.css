@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+    background-color: seagreen;
+    color: wheat;
+}
+
+#start_gif
+{
+    margin-top: 10px;
+    width: 64%;
+}
+
+#quote1
+{
+    font-family: yeon sung;
+    font-size: 30px;
+    white-space: pre-line;
+}
